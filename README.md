@@ -1,1 +1,1 @@
-Amzon clone basic CSS
+Amazon clone basic CSS
